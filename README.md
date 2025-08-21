@@ -6,8 +6,8 @@ Mentoria Xperiun
 
 Segunda aula
 
-Atualiazando pelo Github
+Atualizando pelo Github
 
 Nova branch
 
-Atividade mão na massa.
+Atividade mão na massa
